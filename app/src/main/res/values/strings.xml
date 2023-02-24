@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android2Dop3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Получить код</string>
+    <string name="sms">Ваш код</string>
+    <string name="_996_559_35_35_92">+996 559 35 35 92</string>
+    <string name="number">Регистрация по номеру</string>
+</resources>
